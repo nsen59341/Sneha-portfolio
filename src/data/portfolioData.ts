@@ -1,6 +1,6 @@
-import snehaOfficialDpImg from '../assets/images/snehadp.jpg';
-import snehaHeadshotImg from '../assets/images/snehadp.jpg';
-import snehaMeditateImg from '../assets/images/meditation.jpg';
+import snehaOfficialDpImg from '../assets/images/snehadp.png';
+import snehaHeadshotImg from '../assets/images/snehadp.png';
+import snehaMeditateImg from '../assets/images/meditation.png';
 
 export interface ServiceItem {
   id: string;
