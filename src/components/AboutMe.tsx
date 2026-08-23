@@ -68,7 +68,7 @@ export const AboutMe: React.FC = () => {
                   <img
                     src={images.snehaMeditate}
                     alt="Sneha Bhingare - Certified Meditation Coach & Reiki Healer"
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover object-[center_22%]"
                     referrerPolicy="no-referrer"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-[#24211D]/40 via-transparent to-transparent pointer-events-none" />

@@ -158,7 +158,7 @@ export const Hero: React.FC = () => {
                   <img
                     src={PORTFOLIO_CONFIG.images.heroPortrait}
                     alt="Sneha Bhingare - Certified Meditation Coach & Corporate Wellness Guide"
-                    className="w-full h-full object-cover object-center"
+                    className="w-full h-full object-cover object-[center_18%]"
                     referrerPolicy="no-referrer"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-[#24211D]/60 via-transparent to-transparent pointer-events-none" />

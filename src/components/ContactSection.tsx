@@ -48,7 +48,7 @@ export const ContactSection: React.FC = () => {
                   <img
                     src={PORTFOLIO_CONFIG.images.heroPortrait}
                     alt="Sneha Bhingare"
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover object-[center_18%]"
                     referrerPolicy="no-referrer"
                   />
                 </div>
