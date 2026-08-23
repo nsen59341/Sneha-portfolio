@@ -82,7 +82,7 @@ export const Navbar: React.FC = () => {
               <img
                 src={PORTFOLIO_CONFIG.images.heroPortrait}
                 alt="Sneha Bhingare"
-                className="w-full h-full object-cover object-[center_18%]"
+                className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />
             </div>
